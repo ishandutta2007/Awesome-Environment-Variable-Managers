@@ -122,74 +122,74 @@ The sector is **moderately fragmented** rather than a winner-take-all monopoly. 
 
 ### ⭐ Open-Source Projects Ranked by Stars
 
-*All repositories below are strictly sorted in descending order by **GitHub Star Count**, featuring direct links to stargazers and white social star badges.*
+*All repositories below are strictly sorted in descending order by **GitHub Stars_Count**, featuring direct links to stargazers and white social Stars_Badges.*
 
-1. **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
+1. **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
    🏛️ *The Reference Implementation for Dynamic Secrets & Encryption as a Service*  
    Dynamic secrets engine mints short-lived database and cloud credentials on demand, eliminating static passwords. Provides built-in PKI certificate authorities, transit encryption, and extensive enterprise auth backends (OIDC, AppRole, Kubernetes).  
    *License:* BSL 1.1 • *Language:* Go
 
-2. **[mise-en-place](https://github.com/jdx/mise)** [![GitHub stars](https://img.shields.io/github/stars/jdx/mise?style=social&color=white)](https://github.com/jdx/mise/stargazers)  
+2. **[mise-en-place](https://github.com/jdx/mise)** [![GitHub_Stars](https://img.shields.io/github/stars/jdx/mise?style=social&color=white)](https://github.com/jdx/mise/stargazers)  
    ⚡ *Polyglot Runtime & Directory-Scoped Environment Variable Manager*  
    A lightning-fast modern alternative to `asdf` and `direnv` built in Rust. Automatically manages project-specific environment variables (`.env`, `mise.toml`), secret vaults, and CLI runtime versions (Node, Python, Go, Ruby) seamlessly as you change directories.  
    *License:* MIT • *Language:* Rust
 
-3. **[Infisical](https://github.com/Infisical/infisical)** [![GitHub stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers)  
+3. **[Infisical](https://github.com/Infisical/infisical)** [![GitHub_Stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers)  
    🌟 *Complete Self-Hosted Secrets Management Platform*  
    The fastest-growing open-source alternative to HashiCorp Vault and Doppler. Offers an exceptional web dashboard, end-to-end secret encryption, automatic sync to 30+ cloud platforms, Kubernetes secret operator, CLI secret injection, and secret leak prevention hooks.  
    *License:* MIT / EE • *Language:* TypeScript / Go
 
-4. **[SOPS (Secrets OPerationS)](https://github.com/getsops/sops)** [![GitHub stars](https://img.shields.io/github/stars/getsops/sops?style=social&color=white)](https://github.com/getsops/sops/stargazers)  
+4. **[SOPS (Secrets OPerationS)](https://github.com/getsops/sops)** [![GitHub_Stars](https://img.shields.io/github/stars/getsops/sops?style=social&color=white)](https://github.com/getsops/sops/stargazers)  
    🛡️ *GitOps-Native Encrypted Config Files*  
    Mozilla-originated encryption utility for YAML, JSON, ENV, and INI configuration files. Encrypts only the values while leaving keys in plaintext so diffs remain human-readable in Git. Integrates with AWS KMS, GCP KMS, Azure Key Vault, HashiCorp Vault, and `age`/PGP keys.  
    *License:* MPL 2.0 • *Language:* Go
 
-5. **[dotenv](https://github.com/motdotla/dotenv)** [![GitHub stars](https://img.shields.io/github/stars/motdotla/dotenv?style=social&color=white)](https://github.com/motdotla/dotenv/stargazers)  
+5. **[dotenv](https://github.com/motdotla/dotenv)** [![GitHub_Stars](https://img.shields.io/github/stars/motdotla/dotenv?style=social&color=white)](https://github.com/motdotla/dotenv/stargazers)  
    📦 *The Original & Foundational Environment Loader*  
    The zero-dependency module that started the `.env` movement. Loads variables from `.env` files directly into `process.env`. Universally ported across Python, Ruby, PHP, Rust, Go, and Java ecosystems.  
    *License:* BSD-2-Clause • *Language:* JavaScript
 
-6. **[direnv](https://github.com/direnv/direnv)** [![GitHub stars](https://img.shields.io/github/stars/direnv/direnv?style=social&color=white)](https://github.com/direnv/direnv/stargazers)  
+6. **[direnv](https://github.com/direnv/direnv)** [![GitHub_Stars](https://img.shields.io/github/stars/direnv/direnv?style=social&color=white)](https://github.com/direnv/direnv/stargazers)  
    📂 *Unclutter Your Shell with Directory-Scoped Environment Switching*  
    Shell extension that hooks into bash, zsh, fish, and tcsh to load and unload environment variables based on your current working directory. Reads `.envrc` files, isolates project environments, and cleans them up upon `cd ..`.  
    *License:* MIT • *Language:* Go
 
-7. **[Bitnami Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)** [![GitHub stars](https://img.shields.io/github/stars/bitnami-labs/sealed-secrets?style=social&color=white)](https://github.com/bitnami-labs/sealed-secrets/stargazers)  
+7. **[Bitnami Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)** [![GitHub_Stars](https://img.shields.io/github/stars/bitnami-labs/sealed-secrets?style=social&color=white)](https://github.com/bitnami-labs/sealed-secrets/stargazers)  
    ☸️ *One-Way Asymmetric Encryption for Kubernetes GitOps*  
    Solves "Secrets in Git" for Kubernetes. Encrypts standard Kubernetes Secrets into custom `SealedSecret` resources using the cluster controller's public key. Safe to push to public or private Git repositories; only the in-cluster controller can decrypt them.  
    *License:* Apache 2.0 • *Language:* Go
 
-8. **[AWS Vault](https://github.com/99designs/aws-vault)** [![GitHub stars](https://img.shields.io/github/stars/99designs/aws-vault?style=social&color=white)](https://github.com/99designs/aws-vault/stargazers)  
+8. **[AWS Vault](https://github.com/99designs/aws-vault)** [![GitHub_Stars](https://img.shields.io/github/stars/99designs/aws-vault?style=social&color=white)](https://github.com/99designs/aws-vault/stargazers)  
    🔐 *Secure Local Storage for AWS Credentials & MFA Session Tokens*  
    Stores IAM credentials in your operating system's secure keystore (macOS Keychain, Windows Credential Manager, Secret Service / KWallet) instead of plaintext `~/.aws/credentials`. Generates temporary STS session tokens injected directly into execution environments.  
    *License:* MIT • *Language:* Go
 
-9. **[OpenBao](https://github.com/openbao/openbao)** [![GitHub stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)  
+9. **[OpenBao](https://github.com/openbao/openbao)** [![GitHub_Stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)  
    🔓 *Linux Foundation Open-Governance Fork of HashiCorp Vault*  
    Maintained under the Linux Foundation Edge to guarantee community stewardship following HashiCorp's license change. Drop-in compatible with Vault's APIs, dynamic database secrets engines, Kubernetes auth, and CLI commands.  
    *License:* MPL 2.0 • *Language:* Go
 
-10. **[External Secrets Operator (ESO)](https://github.com/external-secrets/external-secrets)** [![GitHub stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)  
+10. **[External Secrets Operator (ESO)](https://github.com/external-secrets/external-secrets)** [![GitHub_Stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)  
     🔄 *Universal Kubernetes Secret Synchronization Controller*  
     Kubernetes operator that continuously synchronizes secrets from external APIs (AWS Secrets Manager, HashiCorp Vault, Google Secret Manager, Azure Key Vault, Infisical, 1Password) into native Kubernetes `Secret` resources.  
     *License:* Apache 2.0 • *Language:* Go
 
-11. **[dotenvx](https://github.com/dotenvx/dotenvx)** [![GitHub stars](https://img.shields.io/github/stars/dotenvx/dotenvx?style=social&color=white)](https://github.com/dotenvx/dotenvx/stargazers)  
+11. **[dotenvx](https://github.com/dotenvx/dotenvx)** [![GitHub_Stars](https://img.shields.io/github/stars/dotenvx/dotenvx?style=social&color=white)](https://github.com/dotenvx/dotenvx/stargazers)  
     🔒 *Encrypted .env Files with Public-Key Cryptography*  
     From the creator of original `dotenv`. Provides built-in symmetric encryption for `.env` files (`dotenvx encrypt`), allowing secure commits to version control. Supports environment-specific overrides (`.env.production`), multi-cloud decryption keys, and pre-commit hooks.  
     *License:* BSD-3-Clause • *Language:* JavaScript / Go
 
-12. **[Teller](https://github.com/tellerops/teller)** [![GitHub stars](https://img.shields.io/github/stars/tellerops/teller?style=social&color=white)](https://github.com/tellerops/teller/stargazers)  
+12. **[Teller](https://github.com/tellerops/teller)** [![GitHub_Stars](https://img.shields.io/github/stars/tellerops/teller?style=social&color=white)](https://github.com/tellerops/teller/stargazers)  
     🧰 *Multi-Provider Developer Secret Proxy & CLI Runner*  
     A single unified CLI to fetch secrets on the fly from multiple backends (HashiCorp Vault, AWS SSM, Google Secret Manager, Doppler, 1Password, etcd) and inject them directly into process memory without writing any files to disk.  
     *License:* Apache 2.0 • *Language:* Go
 
-13. **[envchain](https://github.com/sorah/envchain)** [![GitHub stars](https://img.shields.io/github/stars/sorah/envchain?style=social&color=white)](https://github.com/sorah/envchain/stargazers)  
+13. **[envchain](https://github.com/sorah/envchain)** [![GitHub_Stars](https://img.shields.io/github/stars/sorah/envchain?style=social&color=white)](https://github.com/sorah/envchain/stargazers)  
     🛡️ *Inject Environment Variables Directly from OS Keystores*  
     Stores sensitive environment variables (such as AWS keys, GitHub PATs, and OpenAI tokens) in macOS Keychain or D-Bus Secret Service. Sets them into environment variables only for the executed sub-command: `envchain aws aws s3 ls`.  
     *License:* MIT • *Language:* C
 
-14. **[CyberArk Conjur Open Source](https://github.com/cyberark/conjur)** [![GitHub stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers)  
+14. **[CyberArk Conjur Open Source](https://github.com/cyberark/conjur)** [![GitHub_Stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers)  
     🏢 *Open Source Machine Identity & DevOps Secrets Engine*  
     The community edition of CyberArk Conjur. Provides robust REST APIs, client libraries, SPIFFE/SPIRE integrations, and Kubernetes sidecar injection to authenticate non-human workloads without storing static access tokens.  
     *License:* Apache 2.0 • *Language:* Ruby / Go
@@ -254,7 +254,7 @@ We welcome additions, updates, and corrections from the community!
 2. 🌿 **Create a descriptive branch:** `git checkout -b add-tool-name`.
 3. 📝 **Add or update the project:**
    - For **SaaS**: Include product name, official website, company valuation/size, explicit starting tier price, and explicit free tier/trial limits.
-   - For **Open-Source**: Include official GitHub link, social star badge `[![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`, brief description, license, and sort by star count.
+   - For **Open-Source**: Include official GitHub link, social Stars_Badge `[![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`, brief description, license, and sort by Stars_Count.
 4. 🚀 **Submit a Pull Request** with a brief summary of why the tool should be indexed.
 
 ---
