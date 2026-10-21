@@ -3,12 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environment-Variable-Managers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Environment-Variable-Managers?style=social&color=white" alt="Repo Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environment-Variable-Managers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Environment-Variable-Managers?style=social&color=white" alt="Repo Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environment-Variable-Managers/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environment-Variable-Managers/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environment-Variable-Managers"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintenance"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -34,6 +37,8 @@ Modern software delivery demands zero-trust credential hygiene. Storing API keys
   - [⭐ Open-Source Projects Ranked by Stars](#-open-source-projects-ranked-by-stars)
   - [🛠️ Architectural Blueprints & Stacks](#️-architectural-blueprints--stacks)
 - [🎯 Buyer's Guide & Evaluation Criteria](#-buyers-guide--evaluation-criteria)
+- [📈 Star History](#--star-history)
+- [💖 Support](#-support)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -223,6 +228,21 @@ Depending on your security maturity and operational posture, standard industry p
 | **Developer Velocity & Low Ops** | Does your engineering team lack dedicated platform engineers to manage high-availability clusters? | **Doppler**, **Infisical Cloud**, **1Password** |
 | **GitOps & Code Review Integration** | Do you prefer keeping encrypted secrets committed directly beside application code in Git? | **SOPS**, **Bitnami Sealed Secrets**, **dotenvx** |
 | **Kubernetes Native Orchestration** | Are you synchronizing secrets into thousands of microservice pods across multi-cluster environments? | **External Secrets Operator**, **Vault Agent Injector** |
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Environment-Variable-Managers&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Environment-Variable-Managers&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using this resource! If you find this curated directory valuable:
+
+- ⭐ **Star this repository** on GitHub to show support and boost visibility for other developers.
+- 🍴 **Fork and share** it with your engineering peers, platform teams, and DevOps communities.
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing research, benchmarking, and updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
